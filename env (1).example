@@ -1,0 +1,14 @@
+# Rename this file to .env and fill in your own values.
+# Never commit your real .env file to GitHub.
+
+OPENAI_API_KEY=your_openai_api_key_here
+GMAIL_CLIENT_ID=your_gmail_oauth_client_id
+GMAIL_CLIENT_SECRET=your_gmail_oauth_client_secret
+NOTION_API_KEY=your_notion_integration_token
+NOTION_DATABASE_ID=your_notion_database_id
+SLACK_BOT_TOKEN=your_slack_bot_token
+SLACK_BILLING_CHANNEL=C000000001
+SLACK_TECH_CHANNEL=C000000002
+SLACK_REFUNDS_CHANNEL=C000000003
+SLACK_GENERAL_CHANNEL=C000000004
+POLL_INTERVAL_MINUTES=5
